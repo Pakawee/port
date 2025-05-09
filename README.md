@@ -1,4 +1,4 @@
-# port
+# Hello, There!
 <!-- 
   Hello 😊.
 
@@ -15,24 +15,19 @@
   Follow the instructions written in comments to create your stunning portfolio
 -->
 
+[Brief Introduction]
+
+Former graduate student at University of Glasgow 2020. 
+Former research assistant at National Astronomical Research Institute of Thailand (NARIT)
+Candidate to Thai Scholarship for University of Chinese Academy of Science (UCAS), 2025
+
+## Objectives
+
+My academic objectives is to become the full-time researcher at NARIT and/or international research institutes in Stellar Astrophysics and/or Astrochemistry, as well as Planetary Sciences especially the formation of the Solar System.
+
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="shortcut icon" type="image/png" href="./images/favicon.png" />
-
-  <!-- Put your site title here -->
-  <title>
-    Pakawee S | Independent Researcher in Bangkok, Thailand
-  </title>
-
-  <meta name="description" content="Add small description of yourslef.">
-  <!-- Add some coding keywords below, Ex: (React, CSS etc) -->
-  <meta name="keywords" content="Put your name, skills and some coding keywords" />
-  <link rel="stylesheet" href="index.css" />
-</head>
 
 <body>
 
